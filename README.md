@@ -1,2 +1,3 @@
 # JustWalk
-one year of learning pygame ;(
+Just one year of learning pygame.
+
